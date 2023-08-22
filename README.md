@@ -1,4 +1,6 @@
-<h1 align="center">Cuarto Semestre<br>Tecnicatura Universitaria en Programación - UTN FRSR</h1>
+<h1 align="center">Cuarto Semestre</h1>
+<h2 align="center">Tecnicatura Universitaria en Programación</h2>
+<h2 align="center">UTN FRSR</h2>
 <h2 align="center">Grupo JavaDabaDev's</h2>
 <p align="center">
   <img 
@@ -33,7 +35,7 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 
 <h4 align="center">💠 Organización de archivos 💠</h4>
 
-👉 Las carpetas llevan el nombre del/los lenguaje/s a los que corresponda y dentro de cada una las carpetas divididas en semanas y el numero de cada una.
+👉 Las carpetas llevan el nombre del/los lenguaje/s a los que corresponda y dentro de cada una, subcarpetas divididas en semanas y el numero de la misma.
 
 
 
