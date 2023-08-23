@@ -37,6 +37,22 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 
 👉 Las carpetas llevan el nombre del/los lenguaje/s a los que corresponda y dentro de cada una, subcarpetas divididas en semanas y el numero de la misma.
 
+<h4 align="center">💠 Organización de Trabajo 💠</h4><br>
+
+| Semana | Scrum Master |
+|--------|--------------|
+|Semana 1|Pendiente|
+|Semana 2|Pendiente|
+|Semana 3|Pendiente|
+|Semana 4|Pendiente|
+|Semana 5|Pendiente|
+|Semana 6|Pendiente|
+|Semana 7|Pendiente|
+|Semana 8|Pendiente|
+|Semana 9|Pendiente|
+|Semana 10|Pendiente|
+|Semana 11|Pendiente|
+|Semana 12|Pendiente|
 
 
 
