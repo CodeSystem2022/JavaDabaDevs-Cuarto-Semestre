@@ -41,15 +41,15 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 
 | Semana | Scrum Master |
 |--------|--------------|
-|Semana 1|Pendiente|
-|Semana 2|Pendiente|
-|Semana 3|Pendiente|
-|Semana 4|Pendiente|
-|Semana 5|Pendiente|
-|Semana 6|Pendiente|
-|Semana 7|Pendiente|
-|Semana 8|Pendiente|
-|Semana 9|Pendiente|
+|Semana 1|Carolina Mamani|
+|Semana 2|Augusto Casado|
+|Semana 3|Marcelo Boujon|
+|Semana 4|Johana Martínez|
+|Semana 5|Araceli Pintos|
+|Semana 6|Ciro Martinez|
+|Semana 7|David Esteche|
+|Semana 8|Margarita Campos|
+|Semana 9|Carolina Mamani|
 |Semana 10|Pendiente|
 |Semana 11|Pendiente|
 |Semana 12|Pendiente|
