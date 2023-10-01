@@ -35,7 +35,7 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 
 <h4 align="center">💠 Organización de archivos 💠</h4>
 
-👉 Las carpetas llevan el nombre del/los lenguaje/s a los que corresponda y dentro de cada una, subcarpetas divididas en semanas y el numero de la misma.
+👉 Las carpetas llevan el nombre del/los lenguaje/s a los que corresponda y dentro de cada una, subcarpetas divididas en semanas y el número de la misma.
 
 <h4 align="center">💠 Organización del Trabajo 💠</h4><br>
 
