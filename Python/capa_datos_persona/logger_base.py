@@ -3,7 +3,8 @@ import logging as log
 
 """Este enlace a docs.python.org/3/howto/logging.html
 servirá como la referencia fundamental para todos los
-otros archivos que manejen registros (logging). Estamos invocando una configuración básica aquí."""
+otros archivos que manejen registros (logging).
+Estamos invocando una configuración básica aquí."""
 
 log.basicConfig(level=log.DEBUG,
                 format='%(asctime)s:%(levelname)s [%(filename)s:%(lineno)s] %(message)s',
