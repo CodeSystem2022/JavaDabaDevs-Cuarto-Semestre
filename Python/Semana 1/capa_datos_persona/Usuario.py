@@ -1,4 +1,4 @@
-#Marita
+# Marita
 class Usuario:
     def _init_(self, id_usuario=None, username=None, password=None):
         self._id_usuario = id_usuario
