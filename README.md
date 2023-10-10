@@ -43,16 +43,16 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 |--------|--------------|
 |Semana 1|Carolina Mamani|
 |Semana 2|David Esteche|
-|Semana 3|Pendiente|
-|Semana 4|Pendiente|
-|Semana 5|Pendiente|
-|Semana 6|Pendiente|
-|Semana 7|Pendiente|
-|Semana 8|Pendiente|
-|Semana 9|Pendiente|
-|Semana 10|Pendiente|
-|Semana 11|Pendiente|
-|Semana 12|Pendiente|
+|Semana 3|Margarita Campos|
+|Semana 4|Augusto Casado|
+|Semana 5|Johana Martinez|
+|Semana 6|Ciro Martinez|
+|Semana 7|Araceli Pintos|
+|Semana 8|Marcelo Boujon|
+|Semana 9|Carolina Mamani|
+|Semana 10|David Esteche|
+|Semana 11|Margarita Campos|
+
 
 
 
