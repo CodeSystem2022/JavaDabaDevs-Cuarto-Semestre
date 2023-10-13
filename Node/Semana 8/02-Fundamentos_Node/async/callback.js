@@ -6,7 +6,7 @@ function hola(nombre, miCallback){
     }, 1000);
 }
 
-//Función asincrona - adios
+//Función asíncrona - adiós
 function adios(nombre, otrocallback) {
     setTimeout(function(){
         console.log('Adiós '+ nombre);
