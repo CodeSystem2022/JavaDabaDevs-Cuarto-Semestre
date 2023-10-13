@@ -1,5 +1,5 @@
 
-console.log('Hola a toda la cohorte 2022')
+console.log('Hola a todas y todos nuestros compañeros de la cohorte 2022')
 
 var i = 0;
 setInterval(function() {
