@@ -1,0 +1,66 @@
+aside#der{
+    position: absolute;
+    right: 0;
+    top: 0;
+    width: 200px;
+    height: 300px;
+}
+aside#der h1{
+    width: 200px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    background: rgba(100, 0, 255, 1);
+    color: white;
+    margin-bottom: 5px;
+}
+aside#der input{
+    padding: 10px;
+    margin: 5px, 0;
+    width: 176px;
+}
+aside#der input[type="submit"]{
+    width: 200px;
+    background: rgba(100, 0, 100, .5);
+    border: 0;
+}
+a.botones :hover{
+    background: rgba(100, 0, 255, .4);
+}
+
+a.botones :active{
+    background: rgba(255, 0, 100, 1);
+}
+#chat{
+    position: fixed;
+    width: 256px;
+    height: 40px;
+    bottom: 0;
+    background: magenta;
+    right: 20px;
+    z-index: 0;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    font-family: "kausha scrip" , cursive;
+    font-size: 20px;
+    border-radius: 20px 20px, 0.0;
+    cursor: pointer;
+}
+aside#izq ul li a{
+    text-decoration: none;
+}
+
+#title {
+
+    padding: 10px;
+    margin: 5px, 0;
+    width: 176px;
+    text-align: center;
+    font-family: "kausha scrip" , cursive;
+    width: 256px;
+    height: 40px;
+    background: rgba(128, 17, 118, 0.514);
+    border-radius: 20px 20px, 0.0;
+    color: white;
+}

@@ -1,0 +1,25 @@
+$primary-color: rgb(90, 89, 28);
+$secundary-color: rgb(224, 124, 31);
+$tertiary-color: rgb(226, 226, 154);
+$font-stack: 'Gabarito', sans-serif;
+
+body{
+    background-color: rgb(241, 208, 115);
+    margin: 0;
+    padding: 0;
+}
+
+nav{
+    background-color: $primary-color;
+}
+
+main{
+    background-color: $primary-color;
+}
+
+footer{
+    $background: rgb(199, 116, 20);
+    background-color: $background;
+    width: 100%;
+    height: 250px;
+}
