@@ -1,6 +1,6 @@
-# Game Proyecto de juego
+# Game Proyecto de juego de la clase de Python Profesional (parte 3)
 
-Para correr el juego se deben seguir las instrucciones 
+Si usted desea jugar, debe seguir las instrucciones 
 en terminal
 
 ```sh
