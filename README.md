@@ -52,7 +52,8 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 |Semana 9|Carolina Mamani|
 |Semana 10|David Esteche|
 |Semana 11|Margarita Campos|
-
+|Semana 12|Araceli Pintos|
+|Semana 13|Carolina Mamani|
 
 
 
