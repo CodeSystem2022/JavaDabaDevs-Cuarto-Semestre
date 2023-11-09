@@ -9,14 +9,15 @@ src="https://camo.githubusercontent.com/69285f6bcec148b7811b634b4bbfdcb729dad910
 
 <h4 align="center">💠 Miembros del Team 💠</h4>
 
-   - :heavy_check_mark: [Ciro Valentin Martinez Gonzalez](https://github.com/CiroValentinMartinezG)
-    - :heavy_check_mark: [David Esteche](https://github.com/David-Esteche)
-    - :heavy_check_mark: [Johana Martínez](https://github.com/JohanaMM)
-    - :heavy_check_mark: [Araceli Pintos](https://github.com/AraceliPintos)
-    - :heavy_check_mark: [Augusto Casado](https://github.com/Augustonc)
-    - :heavy_check_mark: [Gilda Carolina Mamani Condori](https://github.com/CarolinaMamani)
-    - :heavy_check_mark: [Margarita Luisa Campos](https://github.com/MARITACAMPOS)
-    - :heavy_check_mark: [Marcelo Alejandro Boujón](https://github.com/boujonmarcelo)
+  - :heavy_check_mark: [Ciro Valentin Martinez Gonzalez](https://github.com/CiroValentinMartinezG)
+  - :heavy_check_mark: [David Esteche](https://github.com/David-Esteche)
+  - :heavy_check_mark: [Johana Martínez](https://github.com/JohanaMM)
+   - :heavy_check_mark: [Araceli Pintos](https://github.com/AraceliPintos)
+   - :heavy_check_mark: [Augusto Casado](https://github.com/Augustonc)
+  - :heavy_check_mark: [Gilda Carolina Mamani Condori](https://github.com/CarolinaMamani)
+   - :heavy_check_mark: [Margarita Luisa Campos](https://github.com/MARITACAMPOS)
+   - :heavy_check_mark: [Marcelo Alejandro Boujón](https://github.com/boujonmarcelo)
+    
 <h4 align="center">💠 Lenguajes 💠</h4>
 
 <p align="center"> 
