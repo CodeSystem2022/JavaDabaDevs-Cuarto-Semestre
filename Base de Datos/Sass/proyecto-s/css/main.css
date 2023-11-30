@@ -1,22 +1,115 @@
 
-
 body{
-    background-color: rgb(241, 208, 115);
+    background-color: rgb(196, 145, 6);
     margin: 0;
     padding: 0;
 }
-
 nav{
-   width: 100%;
-   height: 100px;
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px;
+
+    p{
+        font-size: 1.5;
+       padding-left: 30px;
+    }
+
+    .icons{
+        display: flex;
+        gap: 15px;
+
+        button {
+            width: 12vw;
+            padding: 20px;
+            background: none;
+            border-style: none;
+            border-radius: 35px;
+            color: white;
+            font-size: 1em;
+        }
+    }
 }
 
 main{
     background-color: rgb(90, 89, 28);
 }
 
+article{
+    width: auto;
+    display: flex;
+    justify-content: space-between;
+    
+.objetivo-section{
+    display: flex;
+    flex-direction: column;
+    padding-top: 50px;
+    gap: 25px;
+
+    
+}
+
+
+h1{
+    font-size: 3em;
+    padding: 0px;
+    margin: 0px;
+}
+
+.image-section{
+    width: 25vw;
+    background-color: rgb(90, 89, 28);
+
+    img{
+        width: 25vw;
+        border-radius: 25px;
+    }
+}
+
+}
+
 footer{
-    background: rgb(199, 116, 20);
+    background: rgb(235, 147, 46);
     width: 100%;
     height: 250px;
+}
+
+
+.section1{
+    h2{
+    font-weight: 300;
+    padding-bottom: 60px;
+    }
+    .product-cart{
+    width: 12vw;
+    height: auto;
+    padding: 20px;
+    border-radius: 8px;
+    img{
+    width: 200px;
+    height: 250px;
+    background-image: cover;
+     border-radius: 6px;
+    }
+}
+}
+.product-card{
+    width: 14vw;
+    height: 45vh;
+    background-color:violet;
+    color: black;
+    padding: 20px;
+    border-radius: 8px;
+    .icons{
+    width: 100%;
+    display: flex;
+    justify-content: flex-end;
+    padding-bottom: 12px;
+    svg{ 
+    width: 28px;
+    height: 28px;
+    stroke: olive;
+    stroke-width: yellow;
+    }
+}
 }
